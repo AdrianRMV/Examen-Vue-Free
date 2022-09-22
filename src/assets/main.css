@@ -1,0 +1,19 @@
+html,
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1,h2,p,span,h3,h4,a {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+:root {
+    /* Paleta de colores principal */
+    --login-bg: #f8f3ff;
+    --title-bg: #6b8cce;
+    --button-bg: #0c4483;
+    --light-pink: #0c3483;
+    --image-bg: #a2b6ef;
+}
