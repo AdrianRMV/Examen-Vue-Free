@@ -1,5 +1,5 @@
 <script setup>
-import SeriePopular from '@/components/SeriePopular.vue';
+import SeriePopular from '/src/components/SeriePopular.vue';
 </script>
 
 <template>

@@ -3,17 +3,17 @@ import { createRouter, createWebHistory } from 'vue-router';
 /*
   Views
 */
-import LoginView from '@/views/LoginView.vue';
-import Base from '@/components/Base.vue';
-import MoviesView from '@/views/MoviesView.vue';
-import SingleMovieInfoView from '@/views/SingleMovieInfoView.vue';
-import ActorInformationView from '@/views/ActorInformationView.vue';
-import KeywordView from '@/views/KeywordView.vue';
-import SeriesView from '@/views/SeriesView.vue';
-import Temporada_serieView from '@/views/Temporada_serieView.vue';
-import EpisodiosView from '@/views/EpisodiosView.vue';
-import MoviesPopularView from '@/views/MoviesPopularView.vue';
-import SeriePopularView from '@/views/SeriePopularView.vue';
+import LoginView from '/src/views/LoginView.vue';
+import Base from '/src/components/Base.vue';
+import MoviesView from '/src/views/MoviesView.vue';
+import SingleMovieInfoView from '/src/views/SingleMovieInfoView.vue';
+import ActorInformationView from '/src/views/ActorInformationView.vue';
+import KeywordView from '/src/views/KeywordView.vue';
+import SeriesView from '/src/views/SeriesView.vue';
+import Temporada_serieView from '/src/views/Temporada_serieView.vue';
+import EpisodiosView from '/src/views/EpisodiosView.vue';
+import MoviesPopularView from '/src/views/MoviesPopularView.vue';
+import SeriePopularView from '/src/views/SeriePopularView.vue';
 
 const router = createRouter({
     history: createWebHistory(),

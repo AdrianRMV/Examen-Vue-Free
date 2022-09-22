@@ -1,5 +1,5 @@
 <script setup>
-import Serie from '@/components/Serie.vue';
+import Serie from '/src/components/Serie.vue';
 </script>
 
 <template>

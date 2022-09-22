@@ -1,5 +1,5 @@
 <script setup>
-import Actor from '@/components/Actor.vue';
+import Actor from '/src/components/Actor.vue';
 </script>
 
 <template>

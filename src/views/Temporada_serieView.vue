@@ -1,5 +1,5 @@
 <script setup>
-import Temporada_serie from '@/components/Temporada_serie.vue';
+import Temporada_serie from '/src/components/Temporada_serie.vue';
 </script>
 
 <template>
