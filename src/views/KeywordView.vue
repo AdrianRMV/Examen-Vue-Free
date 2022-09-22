@@ -1,5 +1,5 @@
 <script setup>
-import Keywords from '/src/components/Keywords.vue';
+import Keywords from '@/components/Keywords.vue';
 </script>
     
 <template>

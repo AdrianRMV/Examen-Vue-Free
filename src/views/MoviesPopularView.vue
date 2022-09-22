@@ -1,5 +1,5 @@
 <script setup>
-import MoviesPopular from '/src/components/MoviesPopular.vue';
+import MoviesPopular from '@/components/MoviesPopular.vue';
 </script>
 
 <template>

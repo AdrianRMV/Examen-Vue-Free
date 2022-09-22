@@ -1,5 +1,5 @@
 <script setup>
-import Episodios from '/src/components/Episodios.vue';
+import Episodios from '@/components/Episodios.vue';
 </script>
 
 <template>

@@ -1,5 +1,5 @@
 <script setup>
-import SingleMovieInfo from '/src/components/SingleMovieInfo.vue';
+import SingleMovieInfo from '@/components/SingleMovieInfo.vue';
 </script>
 
 <template>
